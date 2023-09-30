@@ -1,0 +1,28 @@
+-------------------------------
+Welcome to Plane Finder
+-------------------------------
+Enter plane name or ID to search: Boeing 737
+
+Fetching data...
+
+Plane ID: 123
+Plane Name: Boeing 737
+Image Link: http://imageLink.com
+Number in Air: 5
+
+Do you want to bookmark this info? (Press 'b' to bookmark, any other key to continue): b
+
+Plane bookmarked!
+
+Enter plane name or ID to search: Airbus A320
+
+Fetching data...
+
+Plane ID: 456
+Plane Name: Airbus A320
+Image Link: http://imageLink.com
+Number in Air: 10
+
+Do you want to bookmark this info? (Press 'b' to bookmark, any other key to continue):
+
+...
