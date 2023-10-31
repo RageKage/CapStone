@@ -1,0 +1,12 @@
+[
+  {
+    "bpi": {
+      "USD": {
+        "code": "USD",
+        "rate": "1",
+        "description": "United States Dollar",
+        "rate_float": 1
+      }
+    }
+  }
+]
